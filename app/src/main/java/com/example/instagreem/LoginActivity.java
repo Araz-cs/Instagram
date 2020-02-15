@@ -13,8 +13,6 @@ import com.parse.LogInCallback;
 import com.parse.ParseException;
 import com.parse.ParseUser;
 
-import static kotlinx.coroutines.android.HandlerDispatcherKt.Main;
-
 public class LoginActivity extends AppCompatActivity {
 
     private static final String TAG ="LoginActivity";
