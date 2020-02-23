@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Araz-cs/Instagram/blob/master/walk.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://github.com/Araz-cs/Instagram/blob/master/%231.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 
 
